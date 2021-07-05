@@ -1,0 +1,97 @@
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.exe
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.deps.json
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.runtimeconfig.json
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.runtimeconfig.dev.json
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.pdb
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.csproj.AssemblyReference.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.AssemblyInfoInputs.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.AssemblyInfo.cs
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.csproj.CoreCompileInputs.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\staticwebassets\SovTechAPI1.StaticWebAssets.Manifest.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\staticwebassets\SovTechAPI1.StaticWebAssets.xml
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\scopedcss\bundle\SovTechAPI1.styles.css
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.csproj.CopyComplete
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.pdb
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.genruntimeconfig.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\Test\SovTechAPI\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.exe
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.deps.json
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.runtimeconfig.json
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.runtimeconfig.dev.json
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.pdb
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.AssemblyInfoInputs.cache
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.AssemblyInfo.cs
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.csproj.CoreCompileInputs.cache
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\staticwebassets\SovTechAPI1.StaticWebAssets.Manifest.cache
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\staticwebassets\SovTechAPI1.StaticWebAssets.xml
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\scopedcss\bundle\SovTechAPI1.styles.css
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.csproj.CopyComplete
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.dll
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.pdb
+C:\Users\lmach\source\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.genruntimeconfig.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.exe
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.deps.json
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.runtimeconfig.json
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.runtimeconfig.dev.json
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\SovTechAPI1.pdb
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.csproj.AssemblyReference.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.AssemblyInfoInputs.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.AssemblyInfo.cs
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.csproj.CoreCompileInputs.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\staticwebassets\SovTechAPI1.StaticWebAssets.Manifest.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\staticwebassets\SovTechAPI1.StaticWebAssets.xml
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\scopedcss\bundle\SovTechAPI1.styles.css
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.csproj.CopyComplete
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.dll
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.pdb
+C:\Users\Rishen Gurupersad\OneDrive - RN Software Support CC\Desktop\SovTechAPI1\SovTechAPI1\obj\Debug\netcoreapp3.1\SovTechAPI1.genruntimeconfig.cache
