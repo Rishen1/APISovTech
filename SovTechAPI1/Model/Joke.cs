@@ -1,12 +1,9 @@
 ﻿using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace SovTechAPI1.Model
 {
-    public class JsonProperty
+    public class Joke
     {
 
         [JsonProperty("created_at")]
@@ -19,10 +16,11 @@ namespace SovTechAPI1.Model
         [JsonProperty("updated_at")]
         public DateTime updated_at { get; set; }
 
-        [JsonProperty("url")]
+       [JsonProperty("url")]
         public string url { get; set; }
+
         [JsonProperty("value")]
         public string value { get; set; }
-       // public string Category { get; set; }
+       public string API { get; set; }
     }
 }

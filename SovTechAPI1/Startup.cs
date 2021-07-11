@@ -13,10 +13,11 @@ using System.Threading.Tasks;
 using Microsoft.OpenApi.Models;
 using System.IO;
 using System.Reflection;
-using SovTechAPI1.Extenstions;
-using Microsoft.AspNetCore.Server.IISIntegration;
 
-namespace SovTechAPI1
+using Microsoft.AspNetCore.Server.IISIntegration;
+using SovTechAPI1.Extenstions;
+
+namespace MarketSA
 {
     public class Startup
     {
@@ -37,7 +38,7 @@ namespace SovTechAPI1
                 {
                     Version = "v1",
                     Title = "API",
-                    Description = "StovTech  ASP.NET Core Web API",
+                    Description = "SovTech ASP.NET Core Web API",
                     
                 });
                 
@@ -48,13 +49,14 @@ namespace SovTechAPI1
                 options.AddPolicy(name: "AllowAllHeaders",
                     builder =>
                     {
-                        builder.WithOrigins("http://localhost:4200")
+                        builder.WithOrigins("https://localhost:44304/")
                                .SetIsOriginAllowed((host) => true)
                                .AllowAnyHeader()
                                .AllowAnyMethod();
                     });
 
             });
+
             services.AddAuthentication(IISDefaults.AuthenticationScheme);
             // Configure Services
             services.ConfigureTransient();
@@ -69,7 +71,7 @@ namespace SovTechAPI1
             }
 
             app.UseHttpsRedirection();
-
+            app.UseCors("AllowAllHeaders");
             app.UseRouting();
             app.UseSwagger(c =>
             {

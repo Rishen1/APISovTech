@@ -35,5 +35,11 @@ namespace SovTechAPI1.Controllers
             })
             .ToArray();
         }
+       
+        [HttpGet("[action]")]
+        public string[] GetSummaries()
+        {
+            return Summaries;
+        }
     }
 }

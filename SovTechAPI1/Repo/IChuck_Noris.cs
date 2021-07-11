@@ -10,7 +10,7 @@ namespace SovTechAPI1.Repo
     public interface IChuck_Noris
     {
        List<string>  JokeCategories();
-       CategoryList JokesSearch(string query);
+       Joke JokesSearch(string query);
               
     }
 }

@@ -7,7 +7,7 @@ namespace SovTechAPI1.Model
 {
     public class CategoryList
     {
-        public List<JsonProperty> result { get; set; }
+        public List<Joke> result { get; set; }
         public int total { get; set; }
 
         public string API { get; set; }

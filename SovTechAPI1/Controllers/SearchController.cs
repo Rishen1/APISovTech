@@ -31,11 +31,11 @@ namespace SovTechAPI1.Controllers
         public ActionResult GetJokeSearch(string query)
         {
             SearchResult sr = new SearchResult();
-            CategoryList jokesList = new CategoryList();
+            Joke jokesList = new Joke();
             PeopleList peopleList = new PeopleList();
             jokesList = _chuck_Noris.JokesSearch(query);
             peopleList = _starwars.starwarSearch(query);
-            if (jokesList.total > 0)
+            if (jokesList.id != null)
             {
                 return (Ok(jokesList));
             }

@@ -24,13 +24,14 @@ namespace SovTechAPI1.Repo
 
         }
 
-        public CategoryList JokesSearch(string query)
+        public Joke JokesSearch(string query)
         {
-            var client = new RestClient("https://api.chucknorris.io");
-            var request = new RestRequest($"/jokes/search?query={query}", Method.GET);
+            //https://api.chucknorris.io/jokes/random?category=money
+            var client = new RestClient("https://api.chucknorris.io/");
+            var request = new RestRequest($"jokes/random?category={query}", Method.GET);
             var queryResult = client.Execute(request).Content;
             
-            var categoryList  = JsonConvert.DeserializeObject<CategoryList>(queryResult);
+            var categoryList  = JsonConvert.DeserializeObject<Joke>(queryResult);
             categoryList.API = "ChuckNorris";
             return categoryList;
         }
